@@ -1,7 +1,7 @@
 pragma solidity ^0.4.19;
 
 
-#Random string to induce a jenkins build
+#Random string to induce a second jenkins build
 
 /**
  * @title SafeMath
